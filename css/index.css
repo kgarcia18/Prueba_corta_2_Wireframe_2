@@ -1,0 +1,164 @@
+body{
+    background-color: rgb(232, 232, 247);
+}
+.caja{
+    background-color: white;
+    width: 26.75rem;
+    height: 100vh;
+    margin: auto;
+    border: 1px solid black;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    width: 26.75rem;
+    height: 3rem;
+}
+.perfil{
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.perfil1{
+    height: 1.25rem;
+    width: 1.25rem;
+}
+.palabra1{
+    
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+.busqueda{
+    display: flex;
+    width: 26.75rem;
+    height: 5rem;
+    justify-content: center;
+    margin: 5px;
+}
+.busqueda1{
+    width: 16rem;
+    height: 2rem;
+    margin: 1rem;
+    box-shadow: 15px 15px 10px 0 rgb(180, 180, 180);
+}
+input{
+    height: 3rem;
+    border-radius: 5px;
+    border: white;
+}
+.lupa{
+    padding: 1rem;
+}
+.lupa img{
+    background-color: #FF7A1A;
+    height: 3rem;
+    border-radius: 20%;
+}
+.iconos{
+    display: flex;
+    width: 26.75rem;
+    height: 8rem;
+    justify-content:space-evenly;
+    padding: 1rem;
+}
+.primero{
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    background-color: #FF7A1A;
+    border-radius: 20%;
+    color: white;
+}
+.segundo{
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    background-color: #9571F6;
+    border-radius: 20%;
+    color: white;
+}
+.tercero{
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    background-color: #FF9156;
+    border-radius: 20%;
+    color: white;
+}
+.cuarto{
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    background-color: #6168E6;
+    border-radius: 20%;
+    color: white;
+}
+.palabra{
+    display: flex;
+    width: 26.75rem;
+    height: 4rem;
+    justify-content:space-evenly;
+}
+.palabra div{
+    width: 5rem;
+    height: 1rem;
+    text-align: center;
+}
+.popular{
+    color: #FF7A1A;
+}
+.foto{
+   width: 26.75rem;
+    height: 31rem;
+    text-align: center;
+}
+.foto1 img{
+    width: 20rem ;
+    border-radius: 5%;
+}
+.main-adentro{
+    position: relative;
+    top: -15%;
+}
+.adentro{
+    display: flex;
+    width: 26.75rem;
+    height: 4rem;
+    justify-content:space-around;
+    color: white;
+}
+.adentro div{
+    width: 6.0rem;
+    height: 2rem;
+}
+.adentro img{
+    width: 1rem;
+    height: 1rem;
+}
+.adentro1{
+    display: flex;
+    height: 6rem;
+    justify-content:space-evenly;
+    justify-content: center;
+
+}
+.money div{
+    background-color: #FF7A1A;
+    width: 3.5rem;
+    height: 2rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 35%;
+}
+.ultimo{
+    display: flex;
+    width: 26.75rem;
+    height: 2rem;
+    justify-content:space-evenly;
+}
+.ultimo img{
+    width: 1.25rem;
+    height: 1.25rem;
+}
