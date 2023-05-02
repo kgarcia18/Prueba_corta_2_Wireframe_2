@@ -9,4 +9,4 @@
 |Nombre: |Katherine Jazmín García Chitamul|
 |--------|--------------------------------|
 |Colegio:|Santa Catalina Labouré          |
-|Mi trabajo:|https://kgarcia18.github.io/Ejercicio-2-aplicaci-n-posiciones-fijas/ |
+|Mi trabajo:|https://kgarcia18.github.io/Prueba_corta_2_Wireframe_2/ |
